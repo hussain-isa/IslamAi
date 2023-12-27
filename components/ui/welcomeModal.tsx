@@ -15,15 +15,13 @@ const WelcomeModal = (props: { open: any; onClose: any; }) => {
           <div className=' px-6 py-4 '>
 
           <h1 className='text-lg md:text-2xl font-semibold text-black dark:text-white'>
-            Welcome to Islamicly
+            Welcome to IslamicAi
           </h1>
           <p className='mt-2 text-sm md:text-lg text-gray-700 dark:text-gray-400 pt-3'> 
-            Islamicly is a GPT powered chatbot that refers to Islamic sources to answer your questions.
+            IslamicAi is a GPT powered chatbot that refers to Islamic sources to answer your questions.
             <br />
             <br />
-            Please note, that this chatbot should not be used for fatwa purposes. It is only a reference tool.
-            It&apos;s strengths are retrieving the appropriate sources to answer your questions. Please, always
-            double check it&apos;s answer, by reviewing the sources it provides.
+            You are welcome, still under development. 
             <br />
             <br />
             Thank you, and I hope you benefit from using this tool.

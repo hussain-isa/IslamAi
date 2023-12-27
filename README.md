@@ -1,7 +1,3 @@
-# IslamGPT : The first AI Chatbot grounded in Islamic Sources
-
-[Try it here](https://islam-gpt-indol.vercel.app/)
-
 ## What is it
 This is a Chatbot grounded in Islamic sources. It can answer questions about the Quran, Hadiths, or Seerah of the Prophet SAW and will return all the source documents.
 
@@ -18,8 +14,11 @@ The project is built using Next.js and deployed using Vercel.com
 
 ## Credit
 
+
 Frontend of this repo is inspired by [langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs)
 
 Big help with the front end from [Aman Ali](https://github.com/Amaan630)
 
 Skeleton forked from https://www.youtube.com/watch?v=ih9PBGVVOO4
+
+oshoura Islamly

@@ -139,7 +139,7 @@ export default function Home() {
 
   return (
     <>
-      <WelcomeModal open={modalOpen} onClose={() => setModalOpen(false)} />
+     <WelcomeModal open={modalOpen} onClose={() => setModalOpen(false)} /> 
       <Layout>
         <div className="mx-auto flex flex-col gap-4 nav border-0">
           <main className={styles.main}>
